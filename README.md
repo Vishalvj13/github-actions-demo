@@ -1,5 +1,3 @@
-# springboot-example
-Spring Boot Example Application
+# github-actions-demo
 
-
-API Endpoint: http://localhost:8080/
+This project demonstrates how to automate **CI/CD workflows** using **GitHub Actions**.
